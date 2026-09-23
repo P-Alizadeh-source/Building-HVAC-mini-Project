@@ -1,8 +1,3 @@
-
-Poorya Alizadeh <pooryaa9@gmail.com>
-4:19 PM (0 minutes ago)
-to Pouria
-
 # Building HVAC Mini-Project
 
 **Data-Driven Prediction and Optimal Operation of a Building HVAC System**
